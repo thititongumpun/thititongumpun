@@ -1,4 +1,4 @@
-<img align="left" alt="thititongumpun Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=thititongumpun" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thititongumpun)](https://github.com/thititongumpun)
                                                                                                                                  
 
 <!--
