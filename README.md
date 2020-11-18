@@ -1,4 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thititongumpun)](https://github.com/thititongumpun)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thititongumpun)](https://github.com/thititongumpun)
                                                                                                                                  
 
 <!--
