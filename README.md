@@ -1,7 +1,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thititongumpun&layout=compact&langs_count=10&theme=buefy&v=2)](https://github.com/thititongumpun)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thititongumpun&layout=compact&v=2)](https://github.com/thititongumpun)                                                                                                                                
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thititongumpun&layout=compact)](https://github.com/thititongumpun)                                                                                                                                
 
 <!--
 **thititongumpun/thititongumpun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
