@@ -1,6 +1,6 @@
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thititongumpun&layout=compact&langs_count=10&theme=buefy&v=2)](https://github.com/thititongumpun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thititongumpun&layout=compact&langs_count=10&theme=buefy)](https://github.com/thititongumpun)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thititongumpun&layout=compact)](https://github.com/thititongumpun)                                                                                                                                
 
 <!--
