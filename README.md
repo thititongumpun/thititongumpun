@@ -1,7 +1,7 @@
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thititongumpun&layout=compact&langs_count=10&theme=buefy)](https://github.com/thititongumpun)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thititongumpun&hide=stars&show_icons=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thititongumpun&layout=compact&langs_count=5&theme=buefy)](https://github.com/thititongumpun)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thititongumpun&hide=stars&show_icons=true&count_private=true&theme=buefy)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thititongumpun&layout=compact)](https://github.com/thititongumpun) 
 
 <!--
