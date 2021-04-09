@@ -1,6 +1,6 @@
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thititongumpun&layout=compact&langs_count=6)](https://github.com/thititongumpun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thititongumpun&layout=compact&langs_count=7)](https://github.com/thititongumpun)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thititongumpun&hide=stars&show_icons=true)](https://github.com/thititongumpun)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thititongumpun&layout=compact)](https://github.com/thititongumpun) 
 
