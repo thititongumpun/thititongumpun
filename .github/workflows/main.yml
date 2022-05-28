@@ -16,3 +16,5 @@ jobs:
           SHOW_OS: "TRUE"
           SHOW_PROJECTS: "TRUE"
           LOCALE: "th_TH"
+          SHOW_LOC_CHART: "FALSE"
+          SYMBOL_VERSION: "3"
