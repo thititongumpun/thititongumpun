@@ -2,7 +2,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thititongumpun&hide=stars&show_icons=true&theme=prussian)](https://github.com/thititongumpun) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C077%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C079%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -10,7 +10,7 @@
 
 > 🏆 46 Contributions in the Year 2022
  > 
-> 📦 567.1 kB Used in GitHub's Storage 
+> 📦 567.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -83,5 +83,5 @@ HTML                     5 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 12/06/2022 01:05:20 UTC
+ Last Updated on 13/06/2022 01:06:40 UTC
 <!--END_SECTION:waka-->
