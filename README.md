@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 February 2021 - To: 01 April 2023
+From: 14 February 2021 - To: 02 April 2023
 
 C#                         676 hrs 6 mins  >>>>>>>>-----------------   32.98 %
 TypeScript                 293 hrs 10 mins >>>>---------------------   14.30 %
