@@ -4,14 +4,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 February 2021 - To: 09 April 2023
+From: 14 February 2021 - To: 10 April 2023
 
-C#                         676 hrs 21 mins >>>>>>>>-----------------   32.77 %
-TypeScript                 298 hrs         >>>>---------------------   14.44 %
-YAML                       257 hrs 31 mins >>>----------------------   12.48 %
-JavaScript                 162 hrs 24 mins >>-----------------------   07.87 %
-JSON                       101 hrs 52 mins >------------------------   04.94 %
-Other                      95 hrs 10 mins  >------------------------   04.61 %
+C#                         676 hrs 21 mins >>>>>>>>-----------------   32.71 %
+TypeScript                 298 hrs 52 mins >>>>---------------------   14.46 %
+YAML                       257 hrs 31 mins >>>----------------------   12.46 %
+JavaScript                 162 hrs 24 mins >>-----------------------   07.86 %
+JSON                       103 hrs 6 mins  >------------------------   04.99 %
+Other                      95 hrs 10 mins  >------------------------   04.60 %
 ```
 
 <!--END_SECTION:waka-->
