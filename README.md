@@ -15,3 +15,8 @@ Java                       135 hrs 15 mins >------------------------   04.98 %
 ```
 
 <!--END_SECTION:waka-->
+
+<img
+  src="https://github.com/thititongumpun/thititongumpun/blob/main/images/stat.svg"
+  alt="Thiti WakaTime Activity"
+/>
